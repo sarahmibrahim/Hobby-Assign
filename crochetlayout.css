@@ -1,0 +1,25 @@
+#blurb{
+    text-align: center;
+    }
+    #container{
+        height: 400;
+        width: auto;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    
+    }
+    
+    #image1{
+    
+        height: 300px;
+    }
+     
+    #image2{
+    
+        height: auto;
+    }
+    
+   body{
+       font-family: arial;
+   }

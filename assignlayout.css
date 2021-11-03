@@ -1,0 +1,43 @@
+h1{
+    font-weight: 100;
+   
+}
+#container{
+    height: 400;
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+   }
+   #container2{
+    height: 400;
+    width: auto;
+    display: flex;
+   
+    
+   }
+#image1{
+
+    height: 300px;
+}
+ 
+#image2{
+
+    height: auto;
+}
+
+#image3{
+
+    height: auto;
+}
+#image4{
+
+    height: 300px;
+   
+}
+#image5{
+
+    height: 300px;
+   
+}
