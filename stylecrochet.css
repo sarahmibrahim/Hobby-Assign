@@ -1,0 +1,23 @@
+
+h1{
+    font-family: arial;
+    text-align: center;
+       color:navy;
+   font-size: 70px;
+   border-style: solid;
+   border-color:navy;   
+   border-width: 10px;
+   border-radius: 0%;
+   }
+   #container{
+    background-color:white;
+}
+body{
+    margin: 0;
+}
+p{
+    font-family: arial;
+
+
+}
+

@@ -1,4 +1,12 @@
+* {
+  box-sizing: border-box;
+}
 h1{
     font-weight: 100;
    
 }
+label
+{display: inline-block;
+  font-family: arial;
+text-align: center;
+  padding :10px}
